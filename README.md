@@ -4,7 +4,7 @@ srcset="https://i.imgur.com/HvP6jpJ.png 2x"
   alt="Dotlicense" width="970"></a>
 </h1>
 
-<h3 align="center">Decentralized software licensing</h3>
+<h3 align="center">Forked Decentralized software licensing</h3>
 <div align="center">
   Dotlicense is an Ethereum ERC721-based software licensing framework.
 </div>
